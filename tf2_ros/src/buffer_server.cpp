@@ -35,6 +35,7 @@
 * Author: Eitan Marder-Eppstein
 *********************************************************************/
 #include <tf2_ros/buffer_server.h>
+#include <boost/bind.hpp>
 
 namespace tf2_ros
 {

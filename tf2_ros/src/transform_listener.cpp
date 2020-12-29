@@ -30,7 +30,7 @@
 /** \author Tully Foote */
 
 #include "tf2_ros/transform_listener.h"
-
+#include <boost/bind.hpp>
 
 using namespace tf2_ros;
 
